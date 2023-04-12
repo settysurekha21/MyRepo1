@@ -4,7 +4,7 @@ public class Calculation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        Cal c=new Cal(20,30);
+        Cal c=new Cal(20,20);
         c.add();
         c.sub();
 	}
